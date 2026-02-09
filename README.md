@@ -1,6 +1,5 @@
-![The Odin Project Logo](https://i.imgur.com/8L7C9sO.png)
 ### The Odin Project
+*Foundations Course*
 **Rock Paper Scissors**
 ![Rock Paper Scissors](/images/RPS.png)
-Console based game
-Javascript project
+A Javascript based console game
