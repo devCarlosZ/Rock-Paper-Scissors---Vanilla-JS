@@ -2,5 +2,5 @@
 *Foundations Course*
 
 **Rock Paper Scissors**
-![Rock Paper Scissors](https://imgur.com/a/TMVQpZv)
+![Rock Paper Scissors](https://i.imgur.com/8D7C9ji.png)
 A Javascript based console game
